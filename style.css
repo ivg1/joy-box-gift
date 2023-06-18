@@ -39,6 +39,12 @@ body{
     grid-area: ads;
     text-align: center;
 }
+/*
+.ads_body > img{
+    display: flexbox;
+    margin: auto;
+}
+*/
 .main_body > h2{
     text-align: center;
     margin: 0px;
