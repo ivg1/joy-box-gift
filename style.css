@@ -46,10 +46,18 @@ body{
     margin: auto;
 }
 */
-.about_us > h2{
+.about_us{
     text-align: center;
+    padding: 0px;
+}
+.about_us > h2{
     margin: 0px;
-    
+}
+.about_us > h3{
+    margin: 0px;
+}
+.about_us > h5{
+    margin: 0px;
 }
 .separator{
     border: none;
@@ -57,4 +65,10 @@ body{
     height: 3px;
     background-color: black;
     text-align: center;
+}
+.examples{
+    position: relative;
+}
+.example_div{
+    position: absolute;
 }
